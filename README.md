@@ -4,4 +4,3 @@ The project, “Smart Waste Segregation” operates on the principle of machine 
 The Ultralytics YOLOv8 model is employed for object detection, while AutoDistill and GroundedSAM are utilized for image segmentation and annotation, respectively, as part of the dataset preprocessing.
 Real-time webcam testing is facilitated through OpenCV2. 
 The entire process of model training and data preprocessing is executed using Python scripts and CLI commands in Google Colab, leveraging the power of a T4 GPU.
-![Gesture 1](images/shoot.png)
