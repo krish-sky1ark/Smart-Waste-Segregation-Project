@@ -1,4 +1,4 @@
-# Waste_Segregation_Project
+# Smart Waste Segregation
  
 The project, “Smart Waste Segregation” operates on the principle of machine learning and object detection for the purpose of waste segregation and classification. 
 The Ultralytics YOLOv8 model is employed for object detection, while AutoDistill and GroundedSAM are utilized for image segmentation and annotation, respectively, as part of the dataset preprocessing.
