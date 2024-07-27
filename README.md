@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/9cd01544-281f-4dc6-92ce-8ced66a305c8
-
 # Smart Waste Segregation
 
 ## Overview
@@ -41,6 +39,8 @@ The model is trained using the YOLOv8 architecture. The training process involve
 
 ## Real-time Testing
 Real-time testing is facilitated through OpenCV2, allowing the model to detect and classify waste items using a webcam.
+
+https://github.com/user-attachments/assets/5e91470f-f5cb-4cef-a732-dab7cdf526a4
 
 ## Results
 The model achieves high accuracy in detecting and classifying waste items, demonstrating its effectiveness in real-world scenarios.
